@@ -1,6 +1,6 @@
 ---
 title: "Valor P"
-subtitle: "Teoria, ejemplos e implementación en R"
+subtitle: "Ejemplos e implementación en R"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
